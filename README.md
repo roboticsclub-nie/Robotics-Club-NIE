@@ -1,2 +1,2 @@
 # roboticsclub@nie
-This repository is public .
+This is the official repository of Robotics Club NIE which includes details on different projects.
